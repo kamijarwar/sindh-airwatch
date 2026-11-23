@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/
+.env
+frontend/node_modules/
+frontend/dist/
+*.csv
+cyber.txt
+1
